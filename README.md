@@ -1,3 +1,9 @@
+## Pasos para ejecutar
+
+1. Clonar el proyecto
+2. Ejecutar ```npm install```
+3. Ejecutar la app ```npm run dev```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
